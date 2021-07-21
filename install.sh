@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-ln -sf "${HOME}/dotfiles/.profile" "${HOME}/.profile"
+cat "${HOME}/dotfiles/.bashrc" >>  "${HOME}/.bashrc"
