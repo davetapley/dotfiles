@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-ln -sf "$(pwd)/.profile" "${HOME}/.profile"
+ln -sf "${HOME}/dotfiles/.profile" "${HOME}/.profile"
