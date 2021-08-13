@@ -2,4 +2,4 @@
 
 cat "${HOME}/dotfiles/.bashrc" >>  "${HOME}/.bashrc"
  
-cp "${HOME}/dotfiles/.gitconfig" >>  "${HOME}"
+cp "${HOME}/dotfiles/.gitconfig" "${HOME}"
