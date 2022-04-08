@@ -2,4 +2,4 @@
 
 cat "$(pwd)/.bashrc" >>  "${HOME}/.bashrc"
 cat "$(pwd)/.gitconfig" >> "${HOME}/.gitconfig"
-cat "$(pwd)/.gitconfig" >> "${HOME}/.inputrc"
+cat "$(pwd)/.inputrc" >> "${HOME}/.inputrc"
